@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(241, 185, 195);
+}
+#Titulo{
+    color: violet;
+}
+#Titulo2{
+    color: cornflowerblue;
+}
+.fundoazul {
+    color: darkmagenta;
+}
+input {
+    padding: 25px 50px 10px 10px;
+    border-radius: 10px;
+    margin-top: 10px;
+}
