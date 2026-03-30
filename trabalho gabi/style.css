@@ -12,12 +12,18 @@ body{
 }
 #Titulo{
     color: violet;
+    justify-content: center;
+    display: flex;
 }
 #Titulo2{
     color: rgb(3, 3, 3);
+    justify-content: center;
+    display: flex;
 }
 .fundoazul {
     color: darkmagenta;
+    justify-content: center;
+    display: flex;
 }
 input {
     padding: 10px 10px 10px 10px;
@@ -27,6 +33,14 @@ input {
 label{
     display:block;
     margin-bottom: 8px;
+    justify-content: center;
+    display: flex;
+}
+.fundoAzul{
+    justify-content: center;
+    display: flex;
+}
+.fundoazul{
     justify-content: center;
     display: flex;
 }
