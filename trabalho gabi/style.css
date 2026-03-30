@@ -2,16 +2,19 @@ body{
     background-color: rgb(241, 185, 195);
 }
 .container{
+    margin: 50px auto;
     background-color: hotpink;
     border-radius: 20px;
     padding: 10px;
-    width: auto;
+    width: 600px;
+    justify-content: center;
+    display: flex;
 }
 #Titulo{
     color: violet;
 }
 #Titulo2{
-    color: cornflowerblue;
+    color: rgb(3, 3, 3);
 }
 .fundoazul {
     color: darkmagenta;
@@ -24,4 +27,6 @@ input {
 label{
     display:block;
     margin-bottom: 8px;
+    justify-content: center;
+    display: flex;
 }
