@@ -19,10 +19,10 @@ body{
     font-size: 60px;
 }
 #Titulo2{
-    color: rgb(3, 3, 3);
+    color: rgb(219, 63, 206);
     justify-content: center;
     display: flex;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: URW Chancery L, cursive;
 }
 .fundoazul {
     color: darkmagenta;
