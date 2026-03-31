@@ -9,21 +9,26 @@ body{
     width: 600px;
     justify-content: center;
     display: flex;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 #Titulo{
-    color: violet;
+    color: rgb(161, 52, 161);
     justify-content: center;
     display: flex;
+    font-family: brush script mt, brush script std, cursive;
+    font-size: 60px;
 }
 #Titulo2{
     color: rgb(3, 3, 3);
     justify-content: center;
     display: flex;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 .fundoazul {
     color: darkmagenta;
     justify-content: center;
     display: flex;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 input {
     padding: 10px 10px 10px 10px;
